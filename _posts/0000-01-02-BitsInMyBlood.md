@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"I dare you to think for yourself"
 Use the left arrow to go back!
